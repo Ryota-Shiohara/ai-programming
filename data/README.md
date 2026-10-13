@@ -22,5 +22,7 @@
 
 ## 計測セット
 
+- 第2回（課題2-5）：`raw/02-data-collection-bonus/` に移動・田植え各5試行の元CSVを保存。`processed/02-data-collection-bonus/` に右端の `label` 列へ `move`・`plant` を付与したCSVと提出用READMEを保存。提出用ZIPは `submissions/2-5.zip`。
+
 - 第2回（課題2-2）：`raw/02-data-collection/`。walk・jump・squat各5試行。計測条件は同フォルダの `measurement-conditions.txt` に記録。
 - 第2回（課題2-4）：`processed/02-data-collection/`。元のCSVと同じファイル名で保存し、右端の `label` 列にファイル名に対応する英語の動作ラベルを追加。元の32列は保持。
