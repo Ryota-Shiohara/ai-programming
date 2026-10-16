@@ -1,1 +1,2 @@
-# 授業で必要になったPythonライブラリを追加する。
+numpy>=1.26
+matplotlib>=3.8
