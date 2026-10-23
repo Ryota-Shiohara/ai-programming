@@ -22,6 +22,8 @@
 
 ## 計測セット
 
+- 第4回：`processed/04-preprocessing/windows/` に公称30Hzで30サンプル・15サンプル刻みの窓を保存。`features.csv` は各窓の合成加速度から抽出した6特徴量・動作ラベル・出所情報。
+
 - 第3回（課題3-3）：`processed/03-visualization/6-seconds/`。第2回のwalk・jump・squat全15試行を各試行の先頭から `[0, 6)` 秒に切り出し。3-4はこのデータを使用。
 
 - 第2回（課題2-5）：`raw/02-data-collection-bonus/` に移動・田植え各5試行の元CSVを保存。`processed/02-data-collection-bonus/` に右端の `label` 列へ `move`・`plant` を付与したCSVと提出用READMEを保存。提出用ZIPは `submissions/2-5.zip`。
