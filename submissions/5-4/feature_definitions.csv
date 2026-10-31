@@ -1,0 +1,5 @@
+﻿condition,feature,definition,unit
+A;B,std,合成加速度の標準偏差（ddof=0）,m/s²
+A;B,max,合成加速度の最大値,m/s²
+B,mean,合成加速度の平均,m/s²
+B,fft_peak_hz,平均を引いた合成加速度にHann窓を掛けたFFTで0Hzを除く最大振幅の周波数（1Hz刻み）,Hz

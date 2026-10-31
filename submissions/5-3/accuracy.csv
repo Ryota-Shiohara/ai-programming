@@ -1,0 +1,5 @@
+model,condition,features,train_windows,test_windows,train_accuracy,test_accuracy,test_correct
+logistic_regression,logistic_regression,std;max,259,72,0.8841698841698842,0.9027777777777778,65
+decision_tree,decision_tree,std;max,259,72,0.9459459459459459,0.7638888888888888,55
+random_forest,random_forest,std;max,259,72,0.9845559845559846,0.8194444444444444,59
+xgboost,xgboost,std;max,259,72,1.0,0.875,63

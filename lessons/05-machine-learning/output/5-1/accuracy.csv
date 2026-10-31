@@ -1,0 +1,2 @@
+model,condition,features,train_windows,test_windows,train_accuracy,test_accuracy,test_correct
+logistic_regression,unscaled,std;max,259,72,0.8957528957528957,0.9027777777777778,65

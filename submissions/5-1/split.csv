@@ -1,0 +1,16 @@
+trial_id,source_file,label,split,windows
+walk1,walk1.csv,walk,train,16
+walk2,walk2.csv,walk,train,11
+walk3,walk3.csv,walk,train,18
+walk4,walk4.csv,walk,train,23
+walk5,walk5.csv,walk,test,22
+jump1,jump1.csv,jump,train,24
+jump2,jump2.csv,jump,train,24
+jump3,jump3.csv,jump,train,26
+jump4,jump4.csv,jump,train,27
+jump5,jump5.csv,jump,test,30
+squat1,squat1.csv,squat,train,23
+squat2,squat2.csv,squat,train,26
+squat3,squat3.csv,squat,train,21
+squat4,squat4.csv,squat,train,20
+squat5,squat5.csv,squat,test,20

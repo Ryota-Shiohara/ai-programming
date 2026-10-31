@@ -22,6 +22,8 @@
 
 ## 計測セット
 
+- 第5回：`processed/05-machine-learning/features.csv` は元の15試行から第4回と同じ条件で再生成できる全331窓の特徴量と元試行IDの表。`split.csv` は各動作の1〜4試行目を学習用、5試行目を評価用とする固定分割。
+
 - 第4回：`processed/04-preprocessing/windows/` に公称30Hzで30サンプル・15サンプル刻みの窓を保存。`features.csv` は各窓の合成加速度から抽出した6特徴量・動作ラベル・出所情報。
 
 - 第3回（課題3-3）：`processed/03-visualization/6-seconds/`。第2回のwalk・jump・squat全15試行を各試行の先頭から `[0, 6)` 秒に切り出し。3-4はこのデータを使用。
