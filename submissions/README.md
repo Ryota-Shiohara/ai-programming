@@ -76,3 +76,8 @@ ZIPから取り出したコードの実行、切り出しデータ15個、標準
 実行方法と特徴量・モデルの定義は `lessons/05-machine-learning/README.md` に記載しています。
 提出用ZIPには `RUN.md` と `requirements.txt` は同梱していません。
 5-1には特徴量・分割・散布図を生成する `prepare.py` を同梱しています。元CSV15個は提出物から省いています。学習・評価は同梱の `features.csv` と `split.csv` から再実行できます。
+
+# 第6回の提出準備
+
+6-1〜6-3は考察を反映し、提出用ZIPを作成済みです。更新時は `lessons/06-evaluation/package_submissions.py` で作り直せます。
+6-4はSubject 03・05・06の選定理由・取得条件・評価結果・考察をREADMEにまとめ、提出用ZIPを作成済みです。

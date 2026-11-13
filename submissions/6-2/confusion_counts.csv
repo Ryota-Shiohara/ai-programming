@@ -1,0 +1,4 @@
+true_label,walk,jump,squat
+walk,65,25,0
+jump,14,112,5
+squat,0,0,110
